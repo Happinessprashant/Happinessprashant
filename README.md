@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8459907108
+- 📫  8459907108
 
 <!---
 Happinessprashant/Happinessprashant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
